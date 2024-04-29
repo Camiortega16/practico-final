@@ -1,0 +1,6 @@
+Nombre: Camila
+Apellido: Ortega
+DNI: 46127606
+Telefono: +5493513703888
+Clave UCC: 2403219
+Mascotas: 3
