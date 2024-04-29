@@ -1,0 +1,2 @@
+En el primer trabajo practico de la asignatura de laboratorio de computacion, se evaluo el uso y entendimiento de todos los comandos/ejecuciones basicos en el programa Git-Bush incluyendo su sincronizacion con la plataforma online GIT-Hub.
+En mi experiencia un trabajo sencillo, rapido para el cual me sentia lista y segura de realizar. 
